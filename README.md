@@ -10,3 +10,6 @@ https://explained.ai/matrix-calculus/index.html
 ## On WGANs
 https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490
+
+## Fast.ai course
+https://course.fast.ai/

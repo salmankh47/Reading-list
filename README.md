@@ -13,3 +13,7 @@ https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490
 
 ## Fast.ai course
 https://course.fast.ai/
+
+## Brief list of GANS
+#### Only important GANs
+http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them

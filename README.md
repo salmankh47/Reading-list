@@ -17,3 +17,6 @@ https://course.fast.ai/
 ## Brief list of GANS
 #### Only important GANs
 http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
+
+## MIT DL Class
+https://deeplearning.mit.edu/

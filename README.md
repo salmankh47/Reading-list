@@ -20,3 +20,6 @@ http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
 
 ## MIT DL Class
 https://deeplearning.mit.edu/
+
+## Alex Smola
+https://diveintodeeplearning.org

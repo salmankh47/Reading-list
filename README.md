@@ -23,3 +23,6 @@ https://deeplearning.mit.edu/
 
 ## Alex Smola
 https://diveintodeeplearning.org
+
+## Blogs
+https://lilianweng.github.io/lil-log/

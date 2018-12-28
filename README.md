@@ -29,5 +29,6 @@ https://diveintodeeplearning.org
 
 ## Blogs
 https://lilianweng.github.io/lil-log/
+http://karpathy.github.io/
 
 

@@ -1,6 +1,9 @@
 # Reading-list
 Contains basic reading material regarding AI-ML
 
+## Researchers
+https://www.quora.com/Who-are-the-most-respected-researchers-in-machine-learning-What-were-their-contributions
+
 ## Montreal AI: For general public
 https://montrealartificialintelligence.com/academy/
 
@@ -26,3 +29,5 @@ https://diveintodeeplearning.org
 
 ## Blogs
 https://lilianweng.github.io/lil-log/
+
+

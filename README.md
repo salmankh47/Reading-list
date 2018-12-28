@@ -28,7 +28,7 @@ https://deeplearning.mit.edu/
 https://diveintodeeplearning.org
 
 ## Blogs
-https://lilianweng.github.io/lil-log/
+https://lilianweng.github.io/lil-log/ <br>
 http://karpathy.github.io/
 
 

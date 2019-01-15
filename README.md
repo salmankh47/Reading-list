@@ -21,6 +21,10 @@ https://course.fast.ai/
 #### Only important GANs
 http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
 
+https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b
+
+https://spark-in.me/post/gan-paper-review
+
 ## MIT DL Class
 https://deeplearning.mit.edu/
 
